@@ -31,15 +31,11 @@ The app supports creating, deleting as well as editing and filtering existed tas
 
 2. **Install dependencies**
 
-   npm install
-   # or
-   yarn install
+   npm install _or_ yarn install
 
 3. **Run the project locally**
 
-   npm start
-   # or
-   yarn start
+   npm start _or_ yarn start
 
 ---
 
