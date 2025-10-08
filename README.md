@@ -7,7 +7,7 @@ The app supports creating, deleting as well as editing and filtering existed tas
 
 ## 🎮 Live Demo
 
-👉 [View ToDo App](https://your-demo-link-here.com)
+👉 [View ToDo App](https://panasovskyi.github.io/todo-list-app/)
 
 ---
 
