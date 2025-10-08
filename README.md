@@ -26,8 +26,8 @@ The app supports creating, deleting as well as editing and filtering existed tas
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/2048-game.git
-   cd 2048-game
+   cd todo-list-app
+   git clone https://github.com/panasovskyi/todo-list-app
 
 2. **Install dependencies**
 
