@@ -26,7 +26,7 @@ The app supports creating, deleting as well as editing and filtering existed tas
 
 1. **Clone the repository**
 
-   - git clone https://github.com/panasovskyi/todo-list-app
+   - git clone https://github.com/panasovskyi/todo-list-app.git
    - cd todo-list-app
 
 2. **Install dependencies**
